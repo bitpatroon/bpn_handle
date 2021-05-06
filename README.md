@@ -26,3 +26,8 @@ $repository->findByHandle($handle);
 $repository->findByHandle($handle);
 ```
 
+## Thanks to
+Many thanks for the concept by Frans van der Veen
+<br/>May the force be with you!
+
+Ported to TYPO3 10.4 by Sjoerd Zonneveld
