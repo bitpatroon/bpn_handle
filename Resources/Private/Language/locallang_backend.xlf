@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.0" standalone="yes">
+  <file source-language="en" datatype="plaintext" original="messages" data="2021-04-29T00-00-00" product-name="bpn_handle">
+    <header/>
+    <body>
+      <trans-unit id="tx_bpnrequestaccess_domain_model_request" xml:space="preserve">
+        <source>Handle</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnrequestaccess_domain_model_request.name" xml:space="preserve">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnrequestaccess_domain_model_request.type" xml:space="preserve">
+        <source>Type</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnrequestaccess_domain_model_request.type.pages" xml:space="preserve">
+        <source>Page</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnrequestaccess_domain_model_request.type.tt_content" xml:space="preserve">
+        <source>Content</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnrequestaccess_domain_model_request.type.fe_groups" xml:space="preserve">
+        <source>Usergroup</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
