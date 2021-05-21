@@ -11,8 +11,8 @@
 //#######################################################################
 
 $EM_CONF[$_EXTKEY] = [
-    'title'            => 'BPN Request access',
-    'description'      => 'seudo index called handle',
+    'title'            => 'BPN Handle',
+    'description'      => 'Pseudo index called handle',
     'category'         => 'misc',
     'author'           => 'Sjoerd Zonneveld',
     'author_email'     => 'typo3@bitpatroon.nl',
